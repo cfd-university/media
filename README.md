@@ -1,2 +1,1 @@
-# media
-This repository houses all media that is embedded within articles
+This repository acts as the main media storage for images and videos used in articles on [cfd.university](https://cfd.university)
